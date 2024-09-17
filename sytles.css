@@ -1,0 +1,25 @@
+body {                      
+color:rgb(0, 0, 0);
+background:pink;
+font-family: "Oswald", sans-serif;
+
+}
+
+header{
+border-bottom: solid 2px rgb(248, 66, 203);
+padding: 20px;
+font-size: 32px;
+
+}
+
+section{
+background-color: blueviolet;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+    .chamada-texto{
+margin-right: 5%;
+}
